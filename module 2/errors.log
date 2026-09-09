@@ -1,0 +1,2 @@
+Invalid record: {'name': '', 'email': 'john@example.com', 'age': '25'}
+Invalid record: {'name': 'Bob', 'email': 'not-an-email', 'age': 'abc'}
