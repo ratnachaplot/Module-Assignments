@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Summarization",
+        "prompt": "Summarize this text in 2 sentences: Artificial intelligence is being used in many industries such as healthcare, finance, education, and customer service. It helps organizations automate repetitive tasks, analyze large amounts of data, and provide faster services."
+    },
+    {
+        "id": 2,
+        "task": "Sentiment Classification",
+        "prompt": "Classify the sentiment of this comment as Positive, Negative, or Neutral: I really enjoyed using this product. It is easy to use and works exactly as expected."
+    },
+    {
+        "id": 3,
+        "task": "Information Extraction",
+        "prompt": "Extract the name, email, and age from this text: My name is Rahul Sharma, my email is rahul@example.com, and I am 28 years old."
+    },
+    {
+        "id": 4,
+        "task": "Question Answering",
+        "prompt": "Read this text and answer the question. Text: Python is a programming language known for its simple syntax and readability. It is commonly used for web development, automation, data analysis, and machine learning. Question: What is Python commonly used for?"
+    },
+    {
+        "id": 5,
+        "task": "Reddit Comment Generation",
+        "prompt": "Write a natural and helpful Reddit-style comment answering this question: What should a beginner learn first when starting Python?"
+    }
+]

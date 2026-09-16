@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "task": "Summarization",
+        "prompt": "Summarize this text in 2 sentences: Artificial intelligence is being used in many industries such as healthcare, finance, education, and customer service. It helps organizations automate repetitive tasks, analyze large amounts of data, and provide faster services.",
+        "response": "Here is a 2-sentence summary of the text:\n\nArtificial intelligence is being widely adopted across various industries, including healthcare, finance, education, and customer service. Its use helps organizations automate tasks, analyze large data sets, and provide faster services, ultimately improving efficiency and effectiveness.",
+        "time_seconds": 15.16
+    },
+    {
+        "id": 2,
+        "task": "Sentiment Classification",
+        "prompt": "Classify the sentiment of this comment as Positive, Negative, or Neutral: I really enjoyed using this product. It is easy to use and works exactly as expected.",
+        "response": "I would classify the sentiment of this comment as Positive. The user expresses their enjoyment of the product and its ease of use, with a strong statement that it \"works exactly as expected\", which indicates a high level of satisfaction.",
+        "time_seconds": 11.48
+    },
+    {
+        "id": 3,
+        "task": "Information Extraction",
+        "prompt": "Extract the name, email, and age from this text: My name is Rahul Sharma, my email is rahul@example.com, and I am 28 years old.",
+        "response": "Unfortunately, I don't see the text you'd like me to extract from. Please provide the text, and I'll be happy to help you extract the name, email, and age.",
+        "time_seconds": 10.12
+    },
+    {
+        "id": 4,
+        "task": "Question Answering",
+        "prompt": "Read this text and answer the question. Text: Python is a programming language known for its simple syntax and readability. It is commonly used for web development, automation, data analysis, and machine learning. Question: What is Python commonly used for?",
+        "response": "According to the text, Python is commonly used for the following:\n\n1. Web development\n2. Automation\n3. Data analysis\n4. Machine learning",
+        "time_seconds": 8.98
+    },
+    {
+        "id": 5,
+        "task": "Reddit Comment Generation",
+        "prompt": "Write a natural and helpful Reddit-style comment answering this question: What should a beginner learn first when starting Python?",
+        "response": "Title: \"For beginners, start with the basics: variables, data types, and control structures\"\n\nHey fellow Redditors,\n\nIf you're new to Python and not sure where to start, I've got some advice for you. As a beginner, it's easy to get overwhelmed by all the possibilities and libraries out there, but trust me, mastering the fundamentals is key.\n\nFirst and foremost, learn about variables, data types, and control structures. These are the building blocks of any programming language, and Python is no exception.\n\nVariables: Understand how to declare and assign values to variables, and learn about different data types like strings, numbers, booleans, and lists.\n\nControl structures: Learn about if/else statements, for loops, and while loops. These will help you write more efficient and readable code.\n\nStart with some basic exercises like:\n\n* Declaring and assigning variables\n* Printing and displaying data\n* Basic arithmetic operations\n* Control structures (if/else, for loops, while loops)\n\nOnce you've got a solid grasp of these basics, you can start moving on to more advanced topics like functions, modules, and data structures.\n\nSome great resources to get you started:\n\n* Codecademy's Python course (interactive coding environment)\n* Python.org (official documentation)\n* W3Schools' Python tutorial (easy-to-follow tutorials)\n* Project Euler (practice problems to help you improve)\n\nRemember, practice makes perfect. Start with some simple projects, like calculators or quizzes, to get a feel for how Python works.\n\nLastly, don't be afraid to ask for help or join a community like r/learnpython or r/Python. We're all here to help you out!\n\nHappy coding, and welcome to the world of Python!",
+        "time_seconds": 58.1
+    }
+]
